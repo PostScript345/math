@@ -33,6 +33,7 @@ namespace molar_mass
                 elements["S"] = 32.065f;
                 elements["Cl"] = 35.453f;
                 elements["Ar"] = 39.948f;
+                elements["K"] = 39.0983f;
                 elements["Ca"] = 40.078f;
                 elements["Sc"] = 44.9559f;
                 elements["Ti"] = 47.867f;
