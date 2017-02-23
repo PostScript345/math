@@ -131,14 +131,14 @@ namespace molar_mass
                 int[] multiples = new int[values.Length];
                 float result = 0.000f;
                 int counter = 0;
-                int newmultiple = 0;
+                int newmultiple = 0; 
                 int counterf = 0;
-                int resize = 0;
+                int resize = 0; // used in the event of two character element inputs
 
 
                 // split[] --> values[]
                 // if values[i] == int --> multiples[]
-                // if values[i] == string
+                // if values[i] == string --> symbols[]
 
                 for (int i = 0; i < split.Length; i++)
                 {
