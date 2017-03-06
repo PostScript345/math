@@ -1,0 +1,6 @@
+C:\Users\Piero\Desktop\c#\change\change\bin\Debug\change.exe.config
+C:\Users\Piero\Desktop\c#\change\change\bin\Debug\change.exe
+C:\Users\Piero\Desktop\c#\change\change\bin\Debug\change.pdb
+C:\Users\Piero\Desktop\c#\change\change\obj\Debug\change.csprojResolveAssemblyReference.cache
+C:\Users\Piero\Desktop\c#\change\change\obj\Debug\change.exe
+C:\Users\Piero\Desktop\c#\change\change\obj\Debug\change.pdb
